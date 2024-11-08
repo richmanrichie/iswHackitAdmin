@@ -37,12 +37,12 @@ export const navItems: NavItem[] = [
     bgcolor: 'success',
     route: '/inventory/list',
   },
-  {
-    displayName: 'Vendors',
-    iconName: 'tooltip',
-    bgcolor: 'success',
-    route: '/ui-components/lists',
-  },
+  // {
+  //   displayName: 'Vendors',
+  //   iconName: 'tooltip',
+  //   bgcolor: 'success',
+  //   route: '/ui-components/lists',
+  // },
   // {
   //   displayName: 'Menu',
   //   iconName: 'layout-navbar-expand',
@@ -55,19 +55,19 @@ export const navItems: NavItem[] = [
   //   bgcolor: 'primary',
   //   route: '/ui-components/tooltips',
   // },
-  {
-    navCap: 'Auth',
-  },
-  {
-    displayName: 'Settings',
-    iconName: 'lock',
-    bgcolor: 'accent',
-    route: '/authentication/login',
-  },
-  {
-    displayName: 'Profile',
-    iconName: 'lock',
-    bgcolor: 'accent',
-    route: '/authentication/login',
-  }
+  // {
+  //   navCap: 'Auth',
+  // },
+  // {
+  //   displayName: 'Settings',
+  //   iconName: 'lock',
+  //   bgcolor: 'accent',
+  //   route: '/authentication/login',
+  // },
+  // {
+  //   displayName: 'Profile',
+  //   iconName: 'lock',
+  //   bgcolor: 'accent',
+  //   route: '/authentication/login',
+  // }
 ];
